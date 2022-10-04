@@ -24,7 +24,7 @@ pip install lolcat
 
 pip install requests
 
-git clone https://github.com/MR-ZIHAD/ipfinder
+git clone https://github.com/MR-ZIHAD/Ipfinder
 
 cd $HOME
 
