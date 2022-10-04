@@ -30,7 +30,7 @@ cd $HOME
 
 ls
 
-cd ipfinder
+cd Ipfinder
 
 python Ipfinder.py -v (your victim ip here)
 
